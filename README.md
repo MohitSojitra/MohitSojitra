@@ -60,7 +60,7 @@ Hi, I'm Mohit Sojitra, A Student and Lerner 🚀 from Gujarat, India, currently 
   
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
-- 👧 I’m currently partcipating in as much Hackathons as I can 
+- 🧑 I’m currently partcipating in as much Hackathons as I can 
 - 🌱 I’m currently Microsoft Student Partner
 - 🌱 I’m FullStack developer
 - 🌱 I’m currently Technical Lead At Girlscript Surat
