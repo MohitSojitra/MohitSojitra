@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 **Just a Introduction:**
 
-Hi, I'm Mohit Sojitra, A Student and Lerner 🚀 from Gujarat, India, currently 💻 doing my undergraduate BE (Final Year) from R.N.G Patel Institute Of Technology and I am passionate about technology and want to learn & explore new technologies I'm a #####Microsoft Student Partner , #####Technical Lead at [@girlscript Surat](https://www.linkedin.com/company/girlscriptsurat/), Intern 👧💻 [@Zujo](https://www.linkedin.com/company/zujo/), Internee 👧💼. Beside's Computer Science, I love Listening Retro Songs and playing Cricket.
+Hi, I'm Mohit Sojitra, A Student and Lerner 🚀 from Gujarat, India, currently 💻 doing my undergraduate BE (Final Year) from R.N.G Patel Institute Of Technology and I am passionate about technology and want to learn & explore new technologies I'm a #####Microsoft Student Partner , #####Technical Lead at [@girlscript Surat](https://www.linkedin.com/company/girlscriptsurat/), Intern 🧑💻 [@Zujo](https://www.linkedin.com/company/zujo/), Internee 🧑💼. Beside's Computer Science, I love Listening Retro Songs and playing Cricket.
 
 
 ## My GitHub contributions as a Game of Life
