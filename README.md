@@ -46,10 +46,6 @@ Here are some ideas to get you started:
 <br >
 <br />
 
-**Just a Introduction:**
-
-Hi, I'm Mohit Sojitra, A Student and Lerner 🚀 from Gujarat, India, currently 💻 doing my undergraduate BE (Final Year) from R.N.G Patel Institute Of Technology and I am passionate about technology and want to learn & explore new technologies I'm a #####Microsoft Student Partner , #####Technical Lead at [@girlscript Surat](https://www.linkedin.com/company/girlscriptsurat/), Intern 🧑💻 [@Zujo](https://www.linkedin.com/company/zujo/), Internee 🧑💼. Beside's Computer Science, I love Listening Retro Songs and playing Cricket.
-
 
 ## My GitHub contributions as a Game of Life
 [![GitHub Game of Life](https://iili.io/dRDAWF.png)
@@ -60,10 +56,8 @@ Hi, I'm Mohit Sojitra, A Student and Lerner 🚀 from Gujarat, India, currently 
   
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
-- 🧑 I’m currently partcipating in as much Hackathons as I can 
-- 🌱 I’m currently Microsoft Student Partner
-- 🌱 I’m FullStack developer
-- 🌱 I’m currently Technical Lead At Girlscript Surat
+- 🌱 I’m Javascript FullStack developer
+- 🌱 I’m currently SDE at coverforce
 - 💬 Ask me about anything, I am happy to help
 <!--- 👯 I’m looking to collaborate and make any tech community-->
 - 😄 Pronouns He/Him
@@ -71,11 +65,11 @@ Hi, I'm Mohit Sojitra, A Student and Lerner 🚀 from Gujarat, India, currently 
 
 
 
-**Learning Stack:**
+**Working Stack:**
 
-- 🌱 Html, Css, JS, Bootstrap, React
+- 🌱 Html, Css, JS, Bootstrap, React, Nextjs
 - 🌱 NodeJs, Express, MongoDb, SQL,
-- 🌱 GraphQL, RelayJs
+- 🌱 GraphQL, RelayJs, Appolo
 
 
 
