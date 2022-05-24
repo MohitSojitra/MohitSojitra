@@ -57,7 +57,8 @@ Here are some ideas to get you started:
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 - 🌱 I’m Javascript FullStack developer
-- 🌱 I’m currently SDE at coverforce
+- 🌱 I’m Javascript FullStack developer
+- 🌱 Having 3+ years of experience in web developing
 - 💬 Ask me about anything, I am happy to help
 <!--- 👯 I’m looking to collaborate and make any tech community-->
 - 😄 Pronouns He/Him
