@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m Javascript FullStack developer
 - 🌱 I’m Javascript FullStack developer
-- 🌱 Having 3+ years of experience in web developing
+- 🌱 Having 3.5+ years of experience in web developing
 - 💬 Ask me about anything, I am happy to help
 <!--- 👯 I’m looking to collaborate and make any tech community-->
 - 😄 Pronouns He/Him
